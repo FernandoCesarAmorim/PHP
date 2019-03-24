@@ -1,5 +1,4 @@
-<?php
+<?
 
-"Hello Word";
-
+"olá Mundo"
 ?>
